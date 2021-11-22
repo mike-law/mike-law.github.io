@@ -4,7 +4,7 @@
 
 layout: home
 ---
-I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. Under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/), I wrote an [honours thesis](https://mike-law.github.io/ThesisMCF.pdf) on mean curvature flow. Before doing honours at ANU, I completed a BSc at the University of Melbourne. I intend to enter graduate school in mathematics in Autumn 2022.
+I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. Under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/), I wrote an [honours thesis](https://mike-law.github.io/files/ThesisMCF.pdf) on mean curvature flow. Before doing honours at ANU, I completed a BSc at the University of Melbourne. I intend to enter graduate school in mathematics in Autumn 2022.
 
 # Research
 
