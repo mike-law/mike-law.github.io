@@ -4,9 +4,9 @@
 
 layout: home
 ---
-I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. At the ANU, I wrote an [honours thesis](https://mike-law.github.io/files/ThesisMCF.pdf) on mean curvature flow under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/). Before doing honours, I completed a BSc at the University of Melbourne. 
+I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. At the ANU, I wrote an [honours thesis](https://mike-law.github.io/files/ThesisMCF.pdf) on mean curvature flow under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/). Before doing honours, I completed a BSc at the University of Melbourne. I intend to enter graduate school in mathematics in Autumn 2022.
 
-I intend to enter graduate school in mathematics in Autumn 2022. My current interests are differential geometry, geometric analysis, and analysis more generally.
+My current interests are differential geometry, geometric analysis, and analysis more generally.
 
 Click [here](https://mike-law.github.io/files/cv.pdf) for my CV.
 
@@ -16,16 +16,16 @@ Paper #1 in progress...
 
 # Other writing
 
-1. [Uniqueness of tangent flows in mean curvature flow](https://mike-law.github.io/files/ThesisMCF.pdf). Undergraduate honours thesis supervised by [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/), ANU.
+1. [Uniqueness of tangent flows in mean curvature flow](https://mike-law.github.io/files/ThesisMCF.pdf). Undergraduate honours thesis, ANU.
 2. [Characteristic classes for the differential geometer](https://mike-law.github.io/files/char_classes.pdf). Term paper for <em>Gauge Theory and Symplectic Geometry</em>, ANU.
 3. [The No Wandering Domains theorem](https://mike-law.github.io/files/NWD_Theorem.pdf). Term paper for <em>Riemann Surfaces</em>, ANU.
 4. [Jacobi fields, conjugate points and some applications](https://mike-law.github.io/files/jacobi_fields.pdf). Term paper for <em>Differential Geometry</em>, ANU.
-5. [Topological phases in quantum systems with quantum group symmetries](https://vrs.amsi.org.au/wp-content/uploads/sites/84/2021/01/law_michael_vrs-report.pdf.pdf). AMSI VRS research report, supervised by [Dr. Thomas Quella](https://sites.google.com/view/thomas-quella/home), University of Melbourne.
-6. [Label-noise robust twin auxiliary classifier GANs](https://mike-law.github.io/files/TACGAN_with_label_noise.pdf). Research project supervised by [Dr. Mingming Gong](https://mingming-gong.github.io/), University of Melbourne.
+5. [Topological phases in quantum systems with quantum group symmetries](https://vrs.amsi.org.au/wp-content/uploads/sites/84/2021/01/law_michael_vrs-report.pdf.pdf). AMSI VRS research report, Australian Mathematical Sciences Institute/University of Melbourne.
+6. [Label-noise robust twin auxiliary classifier GANs](https://mike-law.github.io/files/TACGAN_with_label_noise.pdf). Research report for SCIE30001, University of Melbourne.
 
 # Talks
 
-1. *Uniqueness of tangent flows in mean curvature flow.* ANU MSI Honours Conference, 2021. [video] [[slides]](https://mike-law.github.io/files/hons_talk_2.pdf)
+1. *Uniqueness of tangent flows in mean curvature flow.* ANU MSI Honours Conference, 2021. [[video]](https://youtu.be/1NI8OAWiKJM) [[slides]](https://mike-law.github.io/files/hons_talk_2.pdf)
 2. *Singularities in the mean curvature flow.* ANU MSI Honours Conference, 2021. [[slides]](https://mike-law.github.io/files/hons_talk_1.pdf)
 3. *Topological phases in quantum systems with quantum group symmetries*. AMSIConnect, 2021. [[slides]](https://mike-law.github.io/files/VRS_presentation.pdf)
 4. *Label-noise robust twin auxiliary classifier GANs*. University of Melbourne, 2020. [[slides]](https://mike-law.github.io/files/label_noise_slides.pdf)
