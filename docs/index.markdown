@@ -4,7 +4,11 @@
 
 layout: home
 ---
-I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. Under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/), I wrote an [honours thesis](https://mike-law.github.io/files/ThesisMCF.pdf) on mean curvature flow. Before doing honours at ANU, I completed a BSc at the University of Melbourne. I intend to enter graduate school in mathematics in Autumn 2022.
+I am a mathematics undergraduate at the Australian National University (ANU), graduating in December 2021. At the ANU, I wrote an [honours thesis](https://mike-law.github.io/files/ThesisMCF.pdf) on mean curvature flow under the supervision of [Professor Ben Andrews](https://maths-people.anu.edu.au/~andrews/). Before doing honours, I completed a BSc at the University of Melbourne. 
+
+I intend to enter graduate school in mathematics in Autumn 2022. My current interests are differential geometry, geometric analysis, and analysis more generally.
+
+Click [here](https://mike-law.github.io/files/cv.pdf) for my CV.
 
 # Research
 
@@ -21,8 +25,7 @@ Paper #1 in progress...
 
 # Talks
 
-1. 
-
-# CV
-
-Click here.
+1. *Uniqueness of tangent flows in mean curvature flow.* ANU MSI Honours Conference, 2021. [video] [[slides]](https://mike-law.github.io/files/hons_talk_2.pdf)
+2. *Singularities in the mean curvature flow.* ANU MSI Honours Conference, 2021. [[slides]](https://mike-law.github.io/files/hons_talk_1.pdf)
+3. *Topological phases in quantum systems with quantum group symmetries*. AMSIConnect, 2021. [[slides]](https://mike-law.github.io/files/VRS_presentation.pdf)
+4. *Label-noise robust twin auxiliary classifier GANs*. University of Melbourne, 2020. [[slides]](https://mike-law.github.io/files/label_noise_slides.pdf)
