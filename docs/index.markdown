@@ -10,7 +10,7 @@ My current interests are differential geometry, geometric analysis, and analysis
 
 # Research
 
-Paper #1 in progress...
+1. Gapped interpolations between even-spin qAKLT states. (with T. Quella and C. Smith) *In preparation.*
 
 # Other writing
 
