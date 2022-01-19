@@ -10,7 +10,7 @@ My current interests are differential geometry, geometric analysis, and analysis
 
 # Research
 
-1. Gapped interpolations between even-spin qAKLT states. (with T. Quella and C. Smith) *In preparation.*
+1. Gapped interpolations between even-spin qAKLT states. (with T. Quella and C. Smith) *In preparation.* [[Supplementary code]](https://github.com/mike-law/qAKLT-interpolation)
 
 # Other writing
 
