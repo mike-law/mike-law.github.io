@@ -12,8 +12,8 @@ I'm a second-year math PhD candidate at MIT, working under Prof. William Minicoz
 
 # Research
 
-1. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). Preprint, [arxiv:2312.15441](https://arxiv.org/abs/2312.15441).
-<!-- 2. Gapped interpolations between even-spin qAKLT states (with T. Quella and C. Smith). *In preparation.* -->
+1. Concavity for elliptic and parabolic equations in complex projective space (with Shrey Aryan). Preprint, [arxiv:2403.16783](https://arxiv.org/abs/2403.16783).
+2. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). Preprint, [arxiv:2312.15441](https://arxiv.org/abs/2312.15441).
 
 # Other writing
 
