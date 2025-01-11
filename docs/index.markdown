@@ -4,16 +4,18 @@
 
 layout: home
 ---
-I'm a second-year math PhD candidate at MIT, working under Prof. William Minicozzi. I'm working on problems in differential geometry and geometric analysis. Before MIT, I studied at the Australian National University and the University of Melbourne.
+I'm a third-year math PhD candidate at MIT. My advisor is Prof. William Minicozzi. I'm working on problems in differential geometry and geometric analysis. Before MIT, I studied at the Australian National University and the University of Melbourne.
 
 <p align="center">
-<img src="/files/snowman.jpg" width="500">
+<!-- <img src="/files/snowman.jpg" width="500"> -->
+<img style="float: right;" src="/files/eth.jpg" width="200">
 </p>
 
 # Research
 
-1. Concavity for elliptic and parabolic equations in complex projective space (with Shrey Aryan). Preprint, [arxiv:2403.16783](https://arxiv.org/abs/2403.16783).
-2. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). Preprint, [arxiv:2312.15441](https://arxiv.org/abs/2312.15441).
+1. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119).
+2. Concavity for elliptic and parabolic equations in complex projective space (with Shrey Aryan). Preprint. [[arXiv]](https://arxiv.org/abs/2403.16783).
+3. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[arXiv]](https://arxiv.org/abs/2312.15441)[[journal]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870).
 
 # Other writing
 

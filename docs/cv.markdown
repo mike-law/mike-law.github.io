@@ -4,4 +4,4 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-Click [here](https://mike-law.github.io/files/cv.pdf) for (a fairly outdated version of) my CV.
+<object data="/files/cv.pdf" width="750" height="1000" type='application/pdf'></object>
