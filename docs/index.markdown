@@ -9,16 +9,16 @@ layout: home
 <img style="float: right;" src="/files/eth.JPG" width="200">
 </p>
 
-I'm a third-year math PhD candidate at MIT, working on problems in differential geometry, geometric analysis, and partial differential equations. My advisor is Prof. William Minicozzi.
+I'm a fourth-year math PhD candidate at MIT, working on problems in differential geometry, geometric analysis, and partial differential equations. My advisor is Prof. William Minicozzi.
 
 I grew up in Hong Kong. Before MIT, I studied at the Australian National University and the University of Melbourne.
 
 # Research
 
-1. Uniqueness of asymptotically cylindrical steady gradient Ricci solitons. Preprint. [[arXiv:2505.20576]](https://arxiv.org/abs/2505.20576).
-2. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv:2501.05119]](https://arxiv.org/abs/2501.05119).
-3. Concavity for elliptic and parabolic equations in complex projective space (with Shrey Aryan). To appear in <em>Calc. Var. Partial Differential Equations.</em> [[arXiv:2403.16783]](https://arxiv.org/abs/2403.16783).
-4. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[journal link]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870)[[arXiv:2312.15441]](https://arxiv.org/abs/2312.15441).
+1. Uniqueness of asymptotically cylindrical steady gradient Ricci solitons. Preprint. [[arXiv]](https://arxiv.org/abs/2505.20576)
+2. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119)
+3. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Shrey Aryan). <em>Calc. Var. Partial Differential Equations.</em> Vol. 64, No. 202, 2025. [[journal]](https://link.springer.com/article/10.1007/s00526-025-03049-8) [[arXiv]](https://arxiv.org/abs/2403.16783)
+4. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[journal]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870) [[arXiv]](https://arxiv.org/abs/2312.15441)
 
 
 # Other writing
