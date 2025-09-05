@@ -16,6 +16,9 @@ I grew up in Hong Kong. Before MIT, I studied at the Australian National Univers
 # Research
 
 1. Uniqueness of asymptotically cylindrical steady gradient Ricci solitons. Preprint. [[arXiv]](https://arxiv.org/abs/2505.20576)
+
+__Status (Sept 5, 2025).__ An issue with Lemma 3.11 affects Proposition 3.6 and the results depending on it, so the paper's main claims __do not currently hold as written__. The lemma was adapted from Ref. [25]; upon re-examination, the formulation used here is incorrect. Any errors are my own. Other sections remain accurate conditional on a correct proof of Proposition 3.6. I will update the arXiv once a correction is either available or seems beyond reach.
+
 2. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119)
 3. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Shrey Aryan). <em>Calc. Var. Partial Differential Equations.</em> Vol. 64, No. 202, 2025. [[journal]](https://link.springer.com/article/10.1007/s00526-025-03049-8) [[arXiv]](https://arxiv.org/abs/2403.16783)
 4. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[journal]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870) [[arXiv]](https://arxiv.org/abs/2312.15441)
