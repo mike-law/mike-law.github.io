@@ -15,13 +15,15 @@ I grew up in Hong Kong. Before MIT, I studied at the Australian National Univers
 
 # Research
 
-1. Uniqueness of asymptotically cylindrical steady gradient Ricci solitons. Preprint. [[arXiv]](https://arxiv.org/abs/2505.20576)
+1. An analytical characterization of Eguchi-Hanson space and its higher-dimensional analogs. Preprint. [[pdf]](https://mike-law.github.io/files/ALE.pdf)
 
-__Status (Sept 16, 2025).__ An error in Lemma 3.11 affects Proposition 3.6 and the results depending on it, so the paper's main claims __do not currently hold as written__. The claimed results only hold under an additional analytical condition which is implied by linear rigidity or stability. I am preparing a new version of the manuscript which incorporates these corrections, and the arXiv will be updated in due course.
+2. On steady and expanding Ricci solitons with asymptotic symmetries. Preprint. [[pdf]](https://mike-law.github.io/files/GRS.pdf)
 
-2. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119)
-3. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Shrey Aryan). <em>Calc. Var. Partial Differential Equations.</em> Vol. 64, No. 202, 2025. [[journal]](https://link.springer.com/article/10.1007/s00526-025-03049-8) [[arXiv]](https://arxiv.org/abs/2403.16783)
-4. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[journal]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870) [[arXiv]](https://arxiv.org/abs/2312.15441)
+__Note__ (March 9, 2026). The above paper supersedes [this earlier paper](https://arxiv.org/abs/2505.20576). __The earlier paper's main claims remain open due to a critical error in Lemma 3.11.__ I will update the arXiv with this new version shortly.
+
+3. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119)
+4. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Shrey Aryan). <em>Calc. Var. Partial Differential Equations.</em> Vol. 64, No. 202, 2025. [[journal]](https://link.springer.com/article/10.1007/s00526-025-03049-8) [[arXiv]](https://arxiv.org/abs/2403.16783)
+5. Positive mass and Dirac operators on weighted manifolds and smooth metric measure spaces (with Isaac M. Lopez and Daniel Santiago). <em>J. Geom. Phys.</em> Vol. 209, No. 105386, 2025. [[journal]](https://www.sciencedirect.com/science/article/abs/pii/S0393044024002870) [[arXiv]](https://arxiv.org/abs/2312.15441)
 
 
 # Other writing
