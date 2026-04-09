@@ -17,9 +17,7 @@ I grew up in Hong Kong. Before MIT, I studied at the Australian National Univers
 
 1. An analytical characterization of Eguchi-Hanson space and its higher-dimensional analogs. Preprint. [[pdf]](https://mike-law.github.io/files/ALE.pdf)
 
-2. On steady and expanding Ricci solitons with asymptotic symmetries. Preprint. [[pdf]](https://mike-law.github.io/files/GRS.pdf)
-
-__Note__ (March 9, 2026). The above paper supersedes [this earlier paper](https://arxiv.org/abs/2505.20576). __The earlier paper's main claims remain open due to a critical error in Lemma 3.11.__ I will update the arXiv with this new version shortly.
+2. On steady and expanding Ricci solitons with asymptotic symmetries. Preprint. [[arxiv]](https://arxiv.org/abs/2505.20576)
 
 3. Drift-harmonic functions with polynomial growth on asymptotically paraboloidal manifolds. Preprint. [[arXiv]](https://arxiv.org/abs/2501.05119)
 4. Concavity for elliptic and parabolic equations in locally symmetric spaces with nonnegative curvature (with Shrey Aryan). <em>Calc. Var. Partial Differential Equations.</em> Vol. 64, No. 202, 2025. [[journal]](https://link.springer.com/article/10.1007/s00526-025-03049-8) [[arXiv]](https://arxiv.org/abs/2403.16783)
