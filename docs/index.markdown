@@ -15,7 +15,7 @@ I grew up in Hong Kong. Before MIT, I studied at the Australian National Univers
 
 # Research
 
-1. An analytical characterization of Eguchi-Hanson space and its higher-dimensional analogs. Preprint. [[pdf]](https://mike-law.github.io/files/ALE.pdf)
+1. An analytical characterization of Eguchi-Hanson space and its higher-dimensional analogs. Preprint. [[arxiv]](https://arxiv.org/abs/2604.23410)
 
 2. On steady and expanding Ricci solitons with asymptotic symmetries. Preprint. [[arxiv]](https://arxiv.org/abs/2505.20576)
 
